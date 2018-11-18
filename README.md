@@ -24,7 +24,7 @@ ___
 | `file_path`              | The path for data-set file to be read by the algorithm                                                                      |
 | `HiddenLayer Size`    | The number of hidden layers in the network           |
 | `Neurons`    | The number of neurons in each hidden layer           |
-| `learn_rate`             | Learning rate for the Cost function in order to reach _minima_ point. Default is `0.5`                                                        |
+| `learn_rate`             | Learning rate for the Cost function in order to reach _minima_ point.                                                        |
 | `epochs`                 | Number of iterations for which to repeat the learning algorithm in order to update weights-matrix. 
 
 | `folds`                 | Number of folds for which model is to be repeatedly built and tested.
